@@ -13,7 +13,7 @@ Shows NightBot's playing song on the streamer's screen via OBS.
 ## Local Setup
 
 1. Clone project repository
-2. Navigate into project repository i.e `cd kancolle-sleep`
+2. Navigate into project repository i.e `cd twitch-songrequest-txt`
 3. Change the following variables with your data:
   ```
   driver = webdriver.Firefox(executable_path=r'PATH WHERE YOU PUT GECKODRIVER.EXE')
