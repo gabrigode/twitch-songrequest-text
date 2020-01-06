@@ -31,3 +31,8 @@ Shows NightBot's playing song on the streamer's screen via OBS.
 ## Contact
 
 If you have any questions, something went wrong or just want to talk, feel free contact me at [**Twitter**](https://twitter.com/gabrigodes).
+
+## Support on Beerpay
+Hey dude! Help me out for a couple of :beers:!
+
+[![Beerpay](https://beerpay.io/gabrigode/twitch-songrequest-text/badge.svg?style=beer-square)](https://beerpay.io/gabrigode/twitch-songrequest-text)  [![Beerpay](https://beerpay.io/gabrigode/twitch-songrequest-text/make-wish.svg?style=flat-square)](https://beerpay.io/gabrigode/twitch-songrequest-text?focus=wish)
