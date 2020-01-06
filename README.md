@@ -1,5 +1,5 @@
 # Twitch Song Request Text
-Shows the NightBot's playing song on the streamer's screen via OBS.
+Shows NightBot's playing song on the streamer's screen via OBS.
 
 ## Tools needed
 [**OBS**](https://obsproject.com/pt-br)
