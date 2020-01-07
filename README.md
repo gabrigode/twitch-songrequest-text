@@ -12,9 +12,11 @@ Shows NightBot's playing song on the streamer's screen via OBS.
 2. Navigate into project repository i.e `cd twitch-songrequest-text`
 3. Install the requirements using pip: 
     `$ pip install -r requirements.txt`
-  5. Run the script on your terminal or CMD: 
-    `$ python script.py`
-  6. In OBS, put the music.txt that has been created where the script is on Text (GDI+):
+  4. Run the script on your terminal or CMD: 
+   `$ python script.py`
+    <br><img src="https://i.imgur.com/sdZvINa.gif" alt="">
+
+  5. In OBS, put the music.txt that has been created where the script is on Text (GDI+):
   
   <br><img src="https://i.imgur.com/LbuaFb4.gif" alt="">
       
