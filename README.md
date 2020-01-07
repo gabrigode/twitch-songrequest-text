@@ -14,6 +14,7 @@ Shows NightBot's playing song on the streamer's screen via OBS.
     `$ pip install -r requirements.txt`
   4. Run the script on your terminal or CMD: 
    `$ python script.py`
+   
     <br><img src="https://i.imgur.com/sdZvINa.gif" alt="">
 
   5. In OBS, put the music.txt that has been created where the script is on Text (GDI+):
